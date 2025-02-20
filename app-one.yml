@@ -3,4 +3,5 @@ server:
 
 app:
   name: App One
+  message: Hello from App One
   featureX: enabled

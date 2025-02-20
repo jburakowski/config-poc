@@ -1,2 +1,8 @@
 test:
   string: prd
+
+
+app:
+  name: App Two
+  message: Hello from App Two PROD
+  featureY: disabled

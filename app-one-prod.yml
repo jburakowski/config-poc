@@ -1,2 +1,7 @@
 test:
   string: prd
+
+app:
+  name: App One
+  message: Hello from App One PROD
+  featureX: enabled

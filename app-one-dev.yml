@@ -1,2 +1,7 @@
 test:
   string: dev
+
+app:
+  name: App One
+  message: Hello from App One DEV
+  featureX: enabled
