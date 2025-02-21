@@ -4,7 +4,7 @@ test:
 
 app:
   name: App Test
-  message: Hello from App Test DEV
+  message: Hello from App Test Dev done
   featureY: disabled
 
 management:
