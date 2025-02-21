@@ -3,5 +3,5 @@ test:
 
 app:
   name: App One
-  message: Hello from App One DEV
+  message: Hello from App One DEV from repo
   featureX: enabled
