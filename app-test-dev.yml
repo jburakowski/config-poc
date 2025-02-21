@@ -1,0 +1,14 @@
+test:
+  string: dev
+
+
+app:
+  name: App Test
+  message: Hello from App Test DEV
+  featureY: disabled
+
+management:
+  endpoints:
+    web:
+      exposure:
+        include: refresh

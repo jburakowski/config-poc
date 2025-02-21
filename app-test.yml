@@ -1,0 +1,7 @@
+server:
+  port: 9090
+
+app:
+  name: App Test
+  message: Hello from Test Two
+  featureY: disabled

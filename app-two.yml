@@ -1,7 +1,0 @@
-server:
-  port: 9090
-
-app:
-  name: App Two
-  message: Hello from App Two
-  featureY: disabled

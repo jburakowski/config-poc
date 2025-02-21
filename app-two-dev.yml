@@ -1,8 +1,0 @@
-test:
-  string: dev
-
-
-app:
-  name: App Two
-  message: Hello from App Two DEV
-  featureY: disabled
